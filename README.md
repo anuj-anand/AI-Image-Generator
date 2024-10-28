@@ -1,5 +1,5 @@
 # AI-Image-Generator
-A Web app which generate Images of user-defined prompt. OpenAI's API is used to generate Images
+A Web app which generate Images of user-defined prompt. OpenAI's API is used to generate Images.
 
 ## Functionality
 - User can see what others AI generated images
